@@ -1,1 +1,1 @@
-# theory_repo
+# Theory repository
