@@ -1,3 +1,3 @@
 # Dagger 2
 
-Start typing here...
+1. Отличие от Dagger 1
