@@ -6,13 +6,6 @@
                  name="Light"
                  start-page="Default-topic.md">
 
-    <toc-element topic="Intent.md"/>
-    <toc-element topic="Android-Manifest.md"/>
-    <toc-element topic="Service.md"/>
-    <toc-element topic="Activity.md"/>
-    <toc-element topic="java-core.md"/>
-    <toc-element topic="android-core.md"/>
-    <toc-element topic="kotlin-core.md"/>
     <toc-element topic="di.md">
         <toc-element topic="Dagger-2.md"/>
         <toc-element topic="Dagger-1.md"/>
@@ -21,17 +14,24 @@
         <toc-element topic="Test.md"/>
     </toc-element>
     <toc-element topic="java.md">
+        <toc-element topic="java-core.md"/>
         <toc-element topic="java-collection.md"/>
     </toc-element>
     <toc-element topic="android.md">
+        <toc-element topic="android-core.md"/>
+        <toc-element topic="Activity.md"/>
+        <toc-element topic="Android-Manifest.md"/>
+        <toc-element topic="Intent.md"/>
+        <toc-element topic="Service.md"/>
         <toc-element topic="Bluetooth.md"/>
         <toc-element topic="Broadcast-Reciver.md"/>
         <toc-element topic="Content-Provider.md"/>
         <toc-element topic="ExoPlayer.md"/>
     </toc-element>
-    <toc-element topic="kotlin-coroutine.md"/>
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="kotlin.md">
+        <toc-element topic="kotlin-coroutine.md"/>
+        <toc-element topic="kotlin-core.md"/>
         <toc-element topic="kotlin-collection.md"/>
         <toc-element topic="sealed-modificator.md"/>
         <toc-element topic="data-class.md"/>
