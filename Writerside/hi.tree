@@ -8,6 +8,8 @@
 
     <toc-element topic="Material-Design.md"/>
     <toc-element topic="Map-in-Android.md"/>
+    <toc-element topic="Clean-Arch.md"/>
+    <toc-element topic="MultiModules.md"/>
     <toc-element topic="di.md">
         <toc-element topic="Dagger-2.md"/>
         <toc-element topic="Dagger-1.md"/>
