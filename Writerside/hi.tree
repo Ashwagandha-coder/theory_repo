@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Light"
+                 name="Docs"
                  start-page="Default-topic.md">
 
     <toc-element topic="Material-Design.md"/>
