@@ -21,6 +21,7 @@
         <toc-element topic="java-core.md"/>
         <toc-element topic="java-collection.md"/>
     </toc-element>
+    <toc-element topic="Kotlin-MultiPlatform.md"/>
     <toc-element topic="android.md">
         <toc-element topic="android-core.md"/>
         <toc-element topic="Activity.md"/>
