@@ -7,8 +7,10 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Material-Design.md"/>
-    <toc-element topic="Map-in-Android.md"/>
-    <toc-element topic="Clean-Arch.md"/>
+    <toc-element topic="Maps.md"/>
+    <toc-element topic="Architechture.md">
+        <toc-element topic="Clean-Arch.md"/>
+    </toc-element>
     <toc-element topic="MultiModules.md"/>
     <toc-element topic="di.md">
         <toc-element topic="Dagger-2.md"/>
