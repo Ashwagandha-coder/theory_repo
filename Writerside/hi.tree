@@ -10,6 +10,8 @@
     <toc-element topic="Maps.md"/>
     <toc-element topic="Architechture.md">
         <toc-element topic="Clean-Arch.md"/>
+        <toc-element topic="MVVM.md"/>
+        <toc-element topic="MVI.md"/>
     </toc-element>
     <toc-element topic="MultiModules.md"/>
     <toc-element topic="di.md">
