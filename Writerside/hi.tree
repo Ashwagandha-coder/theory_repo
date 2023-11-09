@@ -6,6 +6,7 @@
                  name="Docs"
                  start-page="Default-topic.md">
 
+    <toc-element topic="System-Design.md"/>
     <toc-element topic="Architechture.md">
         <toc-element topic="Clean-Arch.md"/>
         <toc-element topic="MVVM.md"/>
